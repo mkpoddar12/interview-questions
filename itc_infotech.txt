@@ -12,3 +12,6 @@ Q7. how to create sudo user?
 Q8. how you faced any bios issues?
 Q9. what is initrd?
 Q10. Define booting process.
+Q11. Have you done OS installation & congiguration
+Q12. Types of Linux File Systems - explain xfs nad ext.
+Q13. if someone notify performanance issue how will you troubleshoot.
