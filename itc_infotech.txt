@@ -4,3 +4,5 @@ date : 20.11.2019
 
 Q1. Tell me about your self nad brief on your regular task.
 Q2. have you worked on system virualization.
+Q3. what is server hardening, have you haerd about it?
+Q3. Have you worked on on patching?
