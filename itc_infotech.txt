@@ -8,3 +8,7 @@ Q3. what is server hardening, have you haerd about it?
 Q4. Have you worked on on patching?
 Q5. what do you mean os clustermanaging, have you worked on it?
 Q6. how wil you create new user, which location configuration is setup?
+Q7. how to create sudo user?
+Q8. how you faced any bios issues?
+Q9. what is initrd?
+Q10. Define booting process.
